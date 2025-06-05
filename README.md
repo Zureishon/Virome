@@ -1,14 +1,17 @@
 # This serves as the protocol for the methods used in the paper https://doi.org/10.1101/2025.05.23.655811
 
-First, we need to get the reference genome for Culex tarsalis (Referenced in paper), and transform the gff3 file into gff and gtf.
+First, we need to get the reference genome for Culex tarsalis (Referenced in paper; https://doi.org/10.1093/g3journal/jkaa063 ), and transform the gff3 file into gff and gtf.
 (not specified). and save it into a /refs directory. in my case, the root directory was /Virome
 
 All the necessary codes are either in the Makefile, or in R scripts. Makefile has to be in the root directory, or in a different one if specified.
 Here I use pre-existing environments found in the book Biostar https://www.biostarhandbook.com/
 Or some custom ones when the apps were not compatible with existing environments, as it was the case for cdhit and velvet
 
-#### Note:
-If I have any problem with sbatch scripts, run the dos2unix command
+#### Note:  
+Start by running the command:  
+make folders  
+
+Also, if I have any problem with sbatch scripts, run the dos2unix command
 
 Example:
 
