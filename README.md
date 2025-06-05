@@ -77,7 +77,7 @@ cat samples.txt | parallel --lb make spades SRR={}
 cat samples.txt | parallel --lb make combine_contigs SRR={}  
 cat samples.txt | parallel --lb make split SRR={}  
 
-### After these steps, I manually blasted each file contigs/${SRR}_200.fasta, downloaded the csv file from NCBI blast, and ran the Rscript "blast_format.R" for each sample  
+### After these steps, I manually blasted each file contigs/${SRR}_200.fasta, downloaded the csv file from NCBI blast, and ran the Rscript "blast_format.R" (located in the contigs folder) for each sample  
 ### Then put the resulting contigs files (renamed), into the directory renamed_contigs   
 
 ## Alignment of reads to the contigs 
