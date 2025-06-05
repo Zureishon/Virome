@@ -1,0 +1,15 @@
+Status	co_sam/co_bam/KWNR_S148_L002_R1_001.bam	co_sam/co_bam/P14_S10_L002_R1_001.bam	co_sam/co_bam/P15_S15_L002_R1_001.bam	co_sam/co_bam/P17_S17_L002_R1_001.bam	co_sam/co_bam/P1_S45_L002_R1_001.bam	co_sam/co_bam/P2_S46_L002_R1_001.bam	co_sam/co_bam/P3_S47_L002_R1_001.bam	co_sam/co_bam/P4_S4_L002_R1_001.bam	co_sam/co_bam/P5_S11_L002_R1_001.bam	co_sam/co_bam/P6_S5_L002_R1_001.bam	co_sam/co_bam/P7_S6_L002_R1_001.bam	co_sam/co_bam/P8_S7_L002_R1_001.bam	co_sam/co_bam/P10_S8_L002_R1_001.bam	co_sam/co_bam/P11_S13_L002_R1_001.bam	co_sam/co_bam/P12_S9_L002_R1_001.bam	co_sam/co_bam/P13_S14_L002_R1_001.bam	co_sam/co_bam/P16_S16_L002_R1_001.bam	co_sam/co_bam/P9_S12_L002_R1_001.bam
+Assigned	12	1699	7661	17406	96334	68766	18556	25024	789	25863	15998	363	32	8929	1707	348	1718	285
+Unassigned_Unmapped	304643	492912	255902	189599	1067243	1039849	1649466	10944553	392332	19515721	402021	3369651	3881234	248102	454165	260868	438598	208686
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
